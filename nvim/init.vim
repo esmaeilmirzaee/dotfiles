@@ -52,6 +52,9 @@ Plug 'ap/vim-css-color'
 Plug 'keith/swift.vim'
 Plug 'wakatime/vim-wakatime'
 
+Plug 'tpope/vim-fugitive'
+Plug 'airblade/vim-gitgutter'
+
 " Objective-C and Clang syntax hightlighter
 Plug 'rip-rip/clang_complete'
 Plug 'msanders/cocoa.vim'
